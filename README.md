@@ -6,7 +6,7 @@ Mi nombre es Keny Romero @kenyk7
 - 📫 Puedes contactarme al email kenykalin@gmail.com
 
 ## Proyectos Flutter
-Actualmente estoy trabajando en unos proyectos de Flutter que colocaré el código fuente a disposición a todos los que apoyen con una pequeña donación.
+Actualmente estoy trabajando en unos proyectos de Flutter que colocaré el código fuente a disposición a todos los que apoyen con una donación voluntaria.
 
 ## Accede al código fuente de cada proyecto en 3 pasos.
 - **Donación voluntaria Vía PayPal**.
@@ -14,11 +14,19 @@ Actualmente estoy trabajando en unos proyectos de Flutter que colocaré el códi
 - De mi parte revisaré las donación y si está tu usuario de Github **recibirás una invitación al repositorio de Github para que puedas ver el código fuente del proyecto**.
 
 ### Proyecto: Flutter Spotify
-Proyecto con un montón de animaciones dónde podrás ver cómo se hicieron cada una, a continuación dejo un vídeo con la demo.
+Proyecto con un **bastantes animaciones** dónde podrás ver cómo se hicieron cada una, a continuación dejo un vídeo con la demo.
 
-Haz una donación dando click al siguiente botón:
+Haz una donación dando click al siguiente botón: Acceso a Flutter Spotify
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=5R3ME9NHL3C78)
 
 [![Spotify](https://res.cloudinary.com/marcomontalbano/image/upload/v1662047502/video_to_markdown/images/youtube--D6lXGheDsqY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/shorts/D6lXGheDsqY "Spotify")
 
+### Proyecto: Flutter Screens
+Proyecto con diversas pantallas y tipos de **UI + Chart Personalizado con CustomPainter** y más CustomPainters, a continuación el vídeo demo.
+
+Haz una donación dando click al siguiente botón: Acceso a Flutter Screens
+
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=KBMA4GUE75YMC)
+
+[![Flutter screens](https://res.cloudinary.com/marcomontalbano/image/upload/v1662062325/video_to_markdown/images/youtube--qXfkv4s7-nI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=qXfkv4s7-nI "Flutter screens")
