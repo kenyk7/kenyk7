@@ -1,9 +1,9 @@
 # Hola Bienvenido 👋
 Mi nombre es Keny Romero @kenyk7
 
-- 🔭 Actualmente estoy trabajando como desarrollador Frontend React
+- 🔭 Actualmente trabajo como desarrollador Frontend React - Nextjs
 - 💬 Pregúntame sobre: React, Vue, Nodejs y cosas sobre Flutter
-- 📫 Cómo contactarme: kenykalin@gmail.com
+- 📫 Puedes contactarme al email kenykalin@gmail.com
 
 ## Proyectos Flutter
 Actualmente estoy trabajando en unos proyectos de Flutter que colocaré el código fuente a disposición a todos los que apoyen con una pequeña donación.
@@ -16,7 +16,7 @@ Actualmente estoy trabajando en unos proyectos de Flutter que colocaré el códi
 ### Proyecto: Flutter Spotify
 Proyecto con un montón de animaciones dónde podrás ver cómo se hicieron cada una, a continuación dejo un vídeo con la demo.
 
-Haz una donación haciendo click en el siguiente botón:
+Haz una donación dando click al siguiente botón:
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=5R3ME9NHL3C78)
 
