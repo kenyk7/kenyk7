@@ -20,5 +20,5 @@ Haz una donación haciendo click en el siguiente botón:
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=5R3ME9NHL3C78)
 
-[![Spotify](https://res.cloudinary.com/marcomontalbano/image/upload/v1662047502/video_to_markdown/images/youtube--D6lXGheDsqY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=D6lXGheDsqY "Spotify")
+[![Spotify](https://res.cloudinary.com/marcomontalbano/image/upload/v1662047502/video_to_markdown/images/youtube--D6lXGheDsqY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/shorts/D6lXGheDsqY "Spotify")
 
