@@ -11,7 +11,7 @@ Actualmente estoy trabajando en unos proyectos de Flutter que colocaré el códi
 ## Accede al código fuente de cada proyecto en 3 pasos.
 - **Donación voluntaria Vía PayPal**.
 - Al hacer la donación déjame una nota con tu **Usuario/Perfil de Github o Url**.
-- De mi parte revisaré las donación y si está tu usuario de Github **recibirás una invitación al repositorio de Github para que puedas ver el código fuente del proyecto**.
+- Revisaré la donación y si está tu Usuario/Perfil de Github **recibirás una invitación al repositorio de Github para que puedas ver el código fuente del proyecto**.
 
 ### Proyecto: Flutter Spotify
 Proyecto con un **bastantes animaciones** dónde podrás ver cómo se hicieron cada una, a continuación dejo un vídeo con la demo.
