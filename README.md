@@ -16,7 +16,9 @@ Nota: Al final los gratis.
 - Revisaré la donación y si está tu Usuario/Perfil de Github **recibirás una invitación al repositorio de Github para que puedas ver el código fuente del proyecto**.
 
 ### Proyecto: Flutter Spotify
-Proyecto con un **bastantes animaciones** dónde podrás ver cómo se hicieron cada una, a continuación dejo un vídeo con la demo.
+Proyecto con un **muchas animaciones** dónde podrás ver cómo se hicieron cada una, a continuación dejo un vídeo con la demostración.
+
+Que aprender: **Animaciones Custom, CustomClipper animado, Custom Slivers, TweenAnimationBuilders y más animaciones, Contador animado, Animación de Corazones y otras cosas de UI.**
 
 Haz una donación dando click al siguiente botón: Acceso a Flutter Spotify
 
@@ -25,7 +27,9 @@ Haz una donación dando click al siguiente botón: Acceso a Flutter Spotify
 [![Spotify](https://res.cloudinary.com/marcomontalbano/image/upload/v1662047502/video_to_markdown/images/youtube--D6lXGheDsqY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/shorts/D6lXGheDsqY "Spotify")
 
 ### Proyecto: Flutter Screens
-Proyecto con diversas pantallas y tipos de **UI + Chart Personalizado con CustomPainter** y más CustomPainters, a continuación el vídeo demo.
+Proyecto con diversas pantallas y tipos de UI, CustomPainters y CustomClippers, a continuación el vídeo demostración.
+
+Que aprender: **CustomPainters/CustomClippers a full(AppBars, BottonBars, Cards y Botones Personalizados), Chart Personalizado con CustomPainters**
 
 Haz una donación dando click al siguiente botón: Acceso a Flutter Screens
 
