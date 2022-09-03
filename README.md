@@ -29,7 +29,7 @@ Haz una donación dando click al siguiente botón: Acceso a Flutter Spotify
 [![Spotify](https://res.cloudinary.com/marcomontalbano/image/upload/v1662047502/video_to_markdown/images/youtube--D6lXGheDsqY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/shorts/D6lXGheDsqY "Spotify")
 
 ### Proyecto: Flutter Screens
-Proyecto con diversas pantallas y tipos de UI, CustomPainters y CustomClippers, a continuación el vídeo demostración.
+Proyecto con diversas pantallas y tipos de UI, CustomPainters y CustomClippers, a continuación el vídeo demostración, proyecto que iré agregando más pantallas.
 
 Que aprender: **CustomPainters/CustomClippers a full(AppBars, BottonBars, Cards y Botones Personalizados), Chart Personalizado con CustomPainters**
 
