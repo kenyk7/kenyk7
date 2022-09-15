@@ -1,7 +1,7 @@
 # Hola Bienvenido 👋
 Mi nombre es Keny Romero @kenyk7
 
-- 🔭 Actualmente trabajo como desarrollador Frontend React - Nextjs
+- 🔭 Actualmente trabajo como desarrollador Frontend React - Nextjs(TypeScript)
 - 💬 Pregúntame sobre: React, Vue, Nodejs y cosas sobre Flutter
 - 📫 Puedes contactarme al email kenykalin@gmail.com
 - 🔭 Que encontrarás en mi Github: Flutter, React, Vue, Node, GraphQl, Html5, Sass, SEO y más.
