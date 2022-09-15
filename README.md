@@ -7,6 +7,8 @@ Mi nombre es Keny Romero @kenyk7
 - 🔭 Que encontrarás en mi Github: Flutter, React, Vue, Node, GraphQl, Html5, Sass, SEO y más.
 - Explora mi codepen: https://codepen.io/kenyk7/pens/public
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenyk7&theme=dark" alt="kenyk7" /></p>
+
 ## Proyectos Flutter
 Actualmente estoy trabajando en unos proyectos de Flutter que colocaré el **código fuente** a disposición a todos los que apoyen con una donación voluntaria.
 
