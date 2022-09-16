@@ -185,17 +185,13 @@ Mi nombre es Keny Romero @kenyk7
   </a>
 </p>
 
-
 ## Proyectos Flutter
 Actualmente estoy trabajando en unos proyectos de Flutter que colocaré el **código fuente** a disposición a todos los que apoyen con una donación voluntaria.
 
-Nota: Al final los gratis.
-
 ## Accede al código fuente de cada proyecto en 3 pasos.
 - **Donación voluntaria Vía PayPal**.
-- Al hacer la donación déjame una nota con tu **Usuario/Perfil de Github o Url**.
-- Revisaré la donación y si está tu Usuario/Perfil de Github **recibirás una invitación al repositorio de Github para que puedas ver el código fuente del proyecto**.
-- Para los de Perú pueden hacer vía Plin: 925589765
+- En la donación déjame una nota con tu **Usuario/Perfil de Github o Url**.
+- Revisaré la donación y te agregaré cómo colaborador del proyecto donde tendrás acceso al código fuente.
 
 ### Proyecto: Flutter Spotify
 Proyecto con un **muchas animaciones** dónde podrás ver cómo se hicieron cada una, a continuación dejo un vídeo con la demostración.
