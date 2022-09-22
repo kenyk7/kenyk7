@@ -55,6 +55,14 @@ Mi nombre es Keny Romero @kenyk7
       height="40"
     />
   </a>
+  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/330px-Nuxt_logo.svg.png"
+      alt="nuxt"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/368px-Sass_Logo_Color.svg.png"
