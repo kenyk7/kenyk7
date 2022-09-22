@@ -103,14 +103,6 @@ Mi nombre es Keny Romero @kenyk7
       height="40"
     />
   </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-      alt="webpack"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
@@ -127,14 +119,6 @@ Mi nombre es Keny Romero @kenyk7
       height="40"
     />
   </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-      alt="dart"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -143,26 +127,10 @@ Mi nombre es Keny Romero @kenyk7
       height="40"
     />
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
       width="40"
       height="40"
     />
@@ -202,7 +170,15 @@ Haz una donación dando click al siguiente botón: Acceso a Flutter Spotify
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=5R3ME9NHL3C78)
 
-[![Spotify](https://res.cloudinary.com/marcomontalbano/image/upload/v1662047502/video_to_markdown/images/youtube--D6lXGheDsqY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/shorts/D6lXGheDsqY "Spotify")
+<p>
+  <a href="https://www.youtube.com/shorts/D6lXGheDsqY" target="_blank" rel="noreferrer">
+    <img
+      src="https://res.cloudinary.com/marcomontalbano/image/upload/v1662047502/video_to_markdown/images/youtube--D6lXGheDsqY-c05b58ac6eb4c4700831b2b3070cd403.jpg"
+      alt="Spotify"
+      width="300"
+    />
+  </a>
+</p>
 
 ### Proyecto: Flutter Screens
 Proyecto con diversas pantallas y tipos de UI, CustomPainters y CustomClippers, a continuación el vídeo demostración, proyecto que iré agregando más pantallas.
@@ -213,7 +189,15 @@ Haz una donación dando click al siguiente botón: Acceso a Flutter Screens
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://bit.ly/3KFtgrK)
 
-[![Flutter screens](https://res.cloudinary.com/marcomontalbano/image/upload/v1662062325/video_to_markdown/images/youtube--qXfkv4s7-nI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/shorts/qXfkv4s7-nI "Flutter screens")
+<p>
+  <a href="https://www.youtube.com/shorts/qXfkv4s7-nI" target="_blank" rel="noreferrer">
+    <img
+      src="https://res.cloudinary.com/marcomontalbano/image/upload/v1662062325/video_to_markdown/images/youtube--qXfkv4s7-nI-c05b58ac6eb4c4700831b2b3070cd403.jpg"
+      alt="Flutter screens"
+      width="300"
+    />
+  </a>
+</p>
 
 ## Proyectos Libre:
 
@@ -224,14 +208,16 @@ Github: https://github.com/kenyk7/films_3d
 
 Demo:
 
-[![3d Films](https://res.cloudinary.com/marcomontalbano/image/upload/v1662061091/video_to_markdown/images/youtube--xKzalKWUV_g-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://bit.ly/3QdSFtI "3d Films")
+<p>
+  <a href="https://bit.ly/3QdSFtI" target="_blank" rel="noreferrer">
+    <img
+      src="https://res.cloudinary.com/marcomontalbano/image/upload/v1662061091/video_to_markdown/images/youtube--xKzalKWUV_g-c05b58ac6eb4c4700831b2b3070cd403.jpg"
+      alt="3d Films"
+      width="300"
+    />
+  </a>
+</p>
 
-#### Flutter Curved Gallery
-Proyecto que usa CustomClipper
+#### [Ver todos](https://github.com/kenyk7?tab=repositories)
 
-Github: https://github.com/kenyk7/curved_gallery
-
-Preview:
-
-[![Curved Gallery](https://github.com/kenyk7/curved_gallery/blob/dev/preview.jpeg?raw=true)](https://github.com/kenyk7/curved_gallery "Curved Gallery")
 
