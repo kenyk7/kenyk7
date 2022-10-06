@@ -6,6 +6,7 @@ Mi nombre es Keny Romero @kenyk7
 - 📫 Puedes contactarme al email kenykalin@gmail.com o por [Linkedin](https://www.linkedin.com/in/kenyk7/)
 - 🔭 Que encontrarás en mi Github: Flutter, Reactjs/Nextjs, Vue, Node, GraphQl, Html5, Sass, SEO y más.
 - Explora mi codepen: https://codepen.io/kenyk7/pens/public
+- Más sobre mi en mi [Curriculum vitae](https://docs.google.com/document/d/1smGJrkzZ3MWvQ92X_Z4ZBdiOX8pskKnofkubxuYZYC4/edit?usp=sharing)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenyk7&theme=dark" alt="kenyk7" /></p>
 
@@ -19,7 +20,6 @@ Mi nombre es Keny Romero @kenyk7
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
-      width="40"
       height="40"
     />
   </a>
@@ -27,7 +27,6 @@ Mi nombre es Keny Romero @kenyk7
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
-      width="40"
       height="40"
     />
   </a>
@@ -35,7 +34,6 @@ Mi nombre es Keny Romero @kenyk7
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
-      width="40"
       height="40"
     />
   </a>
@@ -43,7 +41,6 @@ Mi nombre es Keny Romero @kenyk7
     <img
       src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
       alt="nextjs"
-      width="40"
       height="40"
     />
   </a>
@@ -51,7 +48,6 @@ Mi nombre es Keny Romero @kenyk7
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/375px-Vue.js_Logo_2.svg.png"
       alt="vue"
-      width="40"
       height="40"
     />
   </a>
@@ -59,7 +55,6 @@ Mi nombre es Keny Romero @kenyk7
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/330px-Nuxt_logo.svg.png"
       alt="nuxt"
-      width="40"
       height="40"
     />
   </a>
@@ -67,7 +62,6 @@ Mi nombre es Keny Romero @kenyk7
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/368px-Sass_Logo_Color.svg.png"
       alt="sass"
-      width="40"
       height="40"
     />
   </a>
@@ -75,7 +69,6 @@ Mi nombre es Keny Romero @kenyk7
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
-      width="40"
       height="40"
     />
   </a>
@@ -83,7 +76,6 @@ Mi nombre es Keny Romero @kenyk7
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
-      width="40"
       height="40"
     />
   </a>
@@ -91,7 +83,6 @@ Mi nombre es Keny Romero @kenyk7
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
-      width="40"
       height="40"
     />
   </a>
@@ -99,7 +90,6 @@ Mi nombre es Keny Romero @kenyk7
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
       alt="express"
-      width="40"
       height="40"
     />
   </a>
@@ -107,7 +97,6 @@ Mi nombre es Keny Romero @kenyk7
     <img
       src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
       alt="graphql"
-      width="40"
       height="40"
     />
   </a>
@@ -115,15 +104,13 @@ Mi nombre es Keny Romero @kenyk7
     <img
       src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
       alt="jest"
-      width="40"
       height="40"
     />
   </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+  <a href="https://codecept.io" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-      alt="flutter"
-      width="40"
+      src="https://codecept.io/logo.svg"
+      alt="codecept"
       height="40"
     />
   </a>
@@ -131,7 +118,6 @@ Mi nombre es Keny Romero @kenyk7
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
-      width="40"
       height="40"
     />
   </a>
@@ -139,15 +125,6 @@ Mi nombre es Keny Romero @kenyk7
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
       height="40"
     />
   </a>
@@ -155,7 +132,27 @@ Mi nombre es Keny Romero @kenyk7
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
       alt="figma"
-      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png"
+      alt="figma"
+      height="40"
+    />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="firebase"
+      height="40"
+    />
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
+      alt="flutter"
       height="40"
     />
   </a>
