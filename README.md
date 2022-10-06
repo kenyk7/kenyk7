@@ -6,7 +6,7 @@ Mi nombre es Keny Romero @kenyk7
 - 📫 Puedes contactarme al email kenykalin@gmail.com o por [Linkedin](https://www.linkedin.com/in/kenyk7/)
 - 🔭 Que encontrarás en mi Github: Flutter, Reactjs/Nextjs, Vue, Node, GraphQl, Html5, Sass, SEO y más.
 - Explora mi codepen: https://codepen.io/kenyk7/pens/public
-- Más sobre mi en mi [Curriculum vitae](https://docs.google.com/document/d/1smGJrkzZ3MWvQ92X_Z4ZBdiOX8pskKnofkubxuYZYC4/edit?usp=sharing)
+- Más sobre mi: [Curriculum vitae](https://docs.google.com/document/d/1smGJrkzZ3MWvQ92X_Z4ZBdiOX8pskKnofkubxuYZYC4/edit?usp=sharing)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenyk7&theme=dark" alt="kenyk7" /></p>
 
