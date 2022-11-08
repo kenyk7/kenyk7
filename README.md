@@ -159,21 +159,11 @@ Mi nombre es Keny Romero @kenyk7
 </p>
 
 ## Proyectos Flutter
-Actualmente estoy trabajando en unos proyectos de Flutter que colocaré el **código fuente** a disposición a todos los que apoyen con una donación voluntaria.
 
-## Accede al código fuente de cada proyecto en 3 pasos.
-- **Donación voluntaria Vía PayPal**.
-- En la donación déjame una nota con tu **Usuario/Perfil de Github o Url**.
-- Revisaré la donación y te agregaré cómo colaborador del proyecto donde tendrás acceso al código fuente.
-
-### Proyecto: Flutter Spotify
-Proyecto con un **muchas animaciones** dónde podrás ver cómo se hicieron cada una, a continuación dejo un vídeo con la demostración.
+### Flutter Spotify
+Proyecto con un muchas animaciones dónde cada una se hicieron desde 0, sin packages
 
 Que aprender: **Animaciones Custom, CustomClipper animado, Custom Slivers, TweenAnimationBuilders y más animaciones, Contador animado, Animación de Corazones y otras cosas de UI.**
-
-Haz una donación dando click al siguiente botón: Acceso a Flutter Spotify
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=5R3ME9NHL3C78)
 
 <p>
   <a href="https://www.youtube.com/shorts/D6lXGheDsqY" target="_blank" rel="noreferrer">
@@ -185,14 +175,11 @@ Haz una donación dando click al siguiente botón: Acceso a Flutter Spotify
   </a>
 </p>
 
-### Proyecto: Flutter Screens
-Proyecto con diversas pantallas y tipos de UI, CustomPainters y CustomClippers, a continuación el vídeo demostración, proyecto que iré agregando más pantallas.
+### Flutter Screens
+
+Proyecto con diversas pantallas y tipos de UI, CustomPainters y CustomClippers.
 
 Que aprender: **CustomPainters/CustomClippers a full(AppBars, BottonBars, Cards y Botones Personalizados), Chart Personalizado con CustomPainters**
-
-Haz una donación dando click al siguiente botón: Acceso a Flutter Screens
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://bit.ly/3KFtgrK)
 
 <p>
   <a href="https://www.youtube.com/shorts/qXfkv4s7-nI" target="_blank" rel="noreferrer">
@@ -204,25 +191,8 @@ Haz una donación dando click al siguiente botón: Acceso a Flutter Screens
   </a>
 </p>
 
-## Proyectos Libre:
+## ¿Cómo acceder al código fuente de Flutter Spotify y Flutter Screens?
 
-#### Flutter 3d Films
-Proyecto que usa los sensores para Simular un efecto 3d
-
-Github: https://github.com/kenyk7/films_3d
-
-Demo:
-
-<p>
-  <a href="https://bit.ly/3QdSFtI" target="_blank" rel="noreferrer">
-    <img
-      src="https://res.cloudinary.com/marcomontalbano/image/upload/v1662061091/video_to_markdown/images/youtube--xKzalKWUV_g-c05b58ac6eb4c4700831b2b3070cd403.jpg"
-      alt="3d Films"
-      width="300"
-    />
-  </a>
-</p>
+Contáctame al email kenykalin@gmail.com o por [Linkedin](https://www.linkedin.com/in/kenyk7/) para coordinar el acceso al repo
 
 #### [Ver todos](https://github.com/kenyk7?tab=repositories)
-
-
