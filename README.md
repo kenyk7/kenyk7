@@ -10,8 +10,15 @@ Mi nombre es Keny Romero @kenyk7
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenyk7&theme=dark" alt="kenyk7" /></p>
 
-### Tecnologías
+### Skills
 <p>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
+      alt="flutter"
+      height="40"
+    />
+  </a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -146,13 +153,6 @@ Mi nombre es Keny Romero @kenyk7
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
       alt="firebase"
-      height="40"
-    />
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-      alt="flutter"
       height="40"
     />
   </a>
