@@ -1,10 +1,10 @@
-# Hola Bienvenido 👋
+# Hola, Bienvenido 👋
 Mi nombre es Keny Romero @kenyk7
 
-- 🔭 Actualmente trabajo como desarrollador Frontend React - Nextjs(TypeScript)
-- 💬 Pregúntame sobre: React, Vue, Nodejs y Flutter
+- 🔨 Actualmente trabajo como Frontend React - NextJs(TypeScript)
+- 💬 Pregúntame sobre: Javascript, React, Vue y Flutter
 - 📫 Puedes contactarme al email kenykalin@gmail.com o por [Linkedin](https://www.linkedin.com/in/kenyk7/)
-- 🔭 Que encontrarás en mi Github: Flutter, Reactjs/Nextjs, Vue, Node, GraphQl, Html5, Sass, SEO y más.
+- 🔭 Que encontrarás en mi Github: Flutter, React/NextJs, Vue, Node, GraphQl, Html5, Sass, SEO y más.
 - Explora mi codepen: https://codepen.io/kenyk7/pens/public
 - Más sobre mi: [Curriculum vitae](https://docs.google.com/document/d/1smGJrkzZ3MWvQ92X_Z4ZBdiOX8pskKnofkubxuYZYC4/edit?usp=sharing)
 
@@ -12,10 +12,24 @@ Mi nombre es Keny Romero @kenyk7
 
 ### Skills
 <p>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-      alt="flutter"
+      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      alt="nextjs"
+      height="40"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      height="40"
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
       height="40"
     />
   </a>
@@ -30,24 +44,10 @@ Mi nombre es Keny Romero @kenyk7
       height="40"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      height="40"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-      alt="nextjs"
+      src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
+      alt="flutter"
       height="40"
     />
   </a>
@@ -55,13 +55,6 @@ Mi nombre es Keny Romero @kenyk7
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/375px-Vue.js_Logo_2.svg.png"
       alt="vue"
-      height="40"
-    />
-  </a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/330px-Nuxt_logo.svg.png"
-      alt="nuxt"
       height="40"
     />
   </a>
@@ -86,17 +79,17 @@ Mi nombre es Keny Romero @kenyk7
       height="40"
     />
   </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      height="40"
+    />
+  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
       height="40"
     />
   </a>
@@ -121,31 +114,10 @@ Mi nombre es Keny Romero @kenyk7
       height="40"
     />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      height="40"
-    />
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql"
-      height="40"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      height="40"
-    />
-  </a>
-  <a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png"
-      alt="figma"
       height="40"
     />
   </a>
